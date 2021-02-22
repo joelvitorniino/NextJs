@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\nfunction App() {\n  return /*#__PURE__*/_jsx(\"h1\", {\n    children: \"Hello, World!\"\n  });\n}\n\n;\nexport default App;","map":null,"metadata":{},"sourceType":"module"}
